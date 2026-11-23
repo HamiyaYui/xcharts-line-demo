@@ -2,7 +2,7 @@
 
 在原有单折线图基础上扩展的第二条折线示例：读取 `LineData.json`，同时渲染「销售额 / 目标值」两条折线，并支持每 2 秒模拟实时刷新。
 
-**在线演示**（WebGL 构建，浏览器直接跑）：<https://yunyiawa.github.io/xcharts-line-demo/>
+**在线演示**（WebGL 构建，浏览器直接跑）：<https://HamiyaYui.github.io/xcharts-line-demo/>
 
 ## 运行
 
